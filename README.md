@@ -3,7 +3,7 @@
 ## Motivação
 
 Ao analisar a quantidade de casos de estupro ocorridos no Brasil, comecei a pensar em uma forma de ajudar a identificar esse tipo de ataque em uma via pública, assim conclui que certas características desse tipo de crime poderiam ser capturadas pelos sensores de smartphones, como o giróscopio, microfone e GPS, e de smartwatches, como o sensor de batimentos cardíacos.\
-Uma das coisas que encontrei quando pesquisei dispositivos similares sobre o tema: https://theconversation.com/anti-rape-devices-may-have-their-uses-but-they-dont-address-the-ultimate-problem-123011
+Uma das coisas que encontrei quando pesquisei dispositivos similares sobre o tema: https://theconversation.com/anti-rape-devices-may-have-their-uses-but-they-dont-address-the-ultimate-problem-123011 \
 E um sobre o uso de sensores pra detectar violência doméstica (Enviado pelo meu amigo Douglas): http://jultika.oulu.fi/files/nbnfi-fe2020042822800.pdf
 
 
